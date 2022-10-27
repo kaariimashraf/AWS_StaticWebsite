@@ -6,6 +6,9 @@ This project has two major intentions to implement:
 2- Accessing the cached website pages using CloudFront content delivery network (CDN) service. Recall that CloudFront offers low latency and high transfer    speeds during website rendering.
 #### To deploy a static website to AWS by performing the following steps:
 1- create a public S3 bucket and upload the website files to your bucket.
+
 2- configure the bucket for website hosting and secure it using IAM policies.
+
 3- speed up content delivery using AWS’s content distribution network service, CloudFront.
+
 4- access your website in a browser using the unique CloudFront endpoint.
