@@ -2,6 +2,7 @@
 ### This Project is to demonstrate Fundamental Concepts of AWS Cloud.By Karim Ashraf For Udacity
 
 This project has two major intentions to implement:
+
 1- Hosting a static website on S3.
 
 2- Accessing the cached website pages using CloudFront content delivery network (CDN) service.
