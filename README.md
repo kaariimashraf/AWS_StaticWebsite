@@ -1,5 +1,6 @@
 # TravelBlog by Udacity
-### This Project is to demonstrate Fundamental Concepts of AWS Cloud.By Karim Ashraf For Udacity
+### This Project is to demonstrate Fundamental Concepts of AWS Cloud.By Karim Ashraf For Udacity.
+Only the final results are shown in screenshots in this repo , the steps below are done on the AWS cloud.
 
 This project has two major intentions to implement:
 
